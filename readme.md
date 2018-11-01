@@ -1,0 +1,1 @@
+This is a personel project that i followed Jonas from his advaced css course from Udemy. Personel use only.
